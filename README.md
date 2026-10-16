@@ -4,7 +4,7 @@
 Freestyler is a replacement for the RAD Studio Style Designer. It runs as its own
 application or inside RAD Studio 13, where it opens whenever you edit a TStyleBook.
 
-**[Download Freestyler](https://github.com/GrooverMD/Freestyler-Releases/releases)**
+**[Download the latest Freestyler](https://github.com/GrooverMD/Freestyler-Releases/releases/latest)**
 
 ![Freestyler editing a button style](docs/freestyler.png)
 
