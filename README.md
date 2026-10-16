@@ -6,18 +6,24 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 
 **[Download Freestyler](https://github.com/GrooverMD/Freestyler-Releases/releases)**
 
+![Freestyler editing a button style](docs/freestyler.png)
+
 ## Features
 
 **Designing**
 - Ribbon interface with a dark theme designed for long design sessions
+- Several styles open at once, each in its own tab with its own undo; copy and paste between them
 - Structure view with drag and drop; a dropped control can be aligned as it is created
+- Right-click menu on the Structure view and the canvas: cut, copy, paste, delete, align, reorder
+- Add Style menu with ready-made form styles (windowborderstyle, backgroundstyle)
 - Object Inspector that expands sets, margins, padding, scale and other grouped properties
 - Collapsible component palette using the RAD Studio component icons
 - Canvas with zoom from 25% to 1600%, a checker, black or white background, and a Centre command
 
 **Editing on the canvas**
 - Selection frame with resize handles that show only where the control's Align and Anchors allow resizing
-- Live width and height readouts; parent container outlined and labelled
+- Dotted outline on the control's real bounds, inside the frame
+- Live width and height readouts; selection and parent container labelled by StyleName
 - Snap and keyboard nudge
 - Eyedropper, Fill and Stroke paint tools
 - Colour editor with solid colours and gradients (add, move and remove stops)
@@ -30,6 +36,7 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 **RAD Studio integration**
 - Tools > Freestyler Style Designer...
 - Double-clicking a TStyleBook opens it in Freestyler; every save goes straight back into the form
+- Apply to StyleBook puts the style being edited onto the form open in the designer
 
 ## Requirements
 
