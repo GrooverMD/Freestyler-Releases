@@ -9,7 +9,7 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 ## Features
 
 **Designing**
-- Ribbon interface with a dark, Inventor-style theme
+- Ribbon interface with a dark theme designed for long design sessions
 - Structure view with drag and drop; a dropped control can be aligned as it is created
 - Object Inspector that expands sets, margins, padding, scale and other grouped properties
 - Collapsible component palette using the RAD Studio component icons
