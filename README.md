@@ -13,9 +13,12 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 **Designing**
 - Ribbon interface with a dark theme designed for long design sessions
 - Several styles open at once, each in its own tab with its own undo; copy and paste between them
+- Multi-select in the Structure view (Ctrl/Shift+click) for cut, copy, paste and delete
 - Structure view with drag and drop; a dropped control can be aligned as it is created
 - Right-click menu on the Structure view and the canvas: cut, copy, paste, delete, align, reorder
 - Add Style menu with ready-made form styles (windowborderstyle, backgroundstyle)
+- Test window (F9): real FMX controls wearing your style, on FMX's Windows default for anything
+  you haven't styled; right-click a control (or the window) to create its style from the default
 - Object Inspector that expands sets, margins, padding, scale and other grouped properties
 - Collapsible component palette using the RAD Studio component icons
 - Canvas with zoom from 25% to 1600%, a checker, black or white background, and a Centre command
