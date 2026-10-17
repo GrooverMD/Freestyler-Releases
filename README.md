@@ -8,7 +8,24 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 
 ![Freestyler editing a button style](docs/freestyler.png)
 
-## Features
+## What's new
+
+**0.9.2.0**
+- Test window (F9): real FMX controls wearing your style, on FMX's Windows default for anything you
+  haven't styled. Right-click a control to create its style from the default (or edit yours), or
+  the window for backgroundstyle and windowborderstyle
+- Multi-select in the Structure view (Ctrl/Shift+click) for cut, copy, paste and delete
+- Closing every style leaves an empty workspace; dragging a control onto it starts a new style
+- New styles are numbered (Untitled1, Untitled2); the unsaved mark (*) shows only for real changes
+- Inside RAD Studio, every Freestyler window shows the Freestyler icon
+
+**0.9.1.0**
+- Several styles open at once, each in its own tab with its own undo
+- Right-click menu on the canvas, the same as the Structure view's, with a new Align command
+- Add Style > Forms: ready-made backgroundstyle and windowborderstyle
+- Labels on the canvas show the StyleName; a dotted outline marks the selection's real bounds
+- Freestyler opens with a new style ready to edit
+
 
 **Designing**
 - Ribbon interface with a dark theme designed for long design sessions
