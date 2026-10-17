@@ -6,7 +6,7 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 
 **[Download the latest Freestyler](https://github.com/GrooverMD/Freestyler-Releases/releases/latest)**
 
-![Freestyler aligning a TLayout in its style container](docs/freestyler.png)
+![Freestyler aligning a TLayout in its style container](docs/freestyler-0.9.2.png)
 
 ## What's new
 
