@@ -10,6 +10,12 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 
 ## What's new
 
+**0.9.3.0**
+- The installer registers the RAD Studio add-in for you: tick it during setup, restart RAD Studio,
+  and Freestyler is there. Uninstalling removes it again
+- New installer in Freestyler's own dark look
+- Marked as a Preview in the title bar and About box, ahead of the first full release
+
 **0.9.2.0**
 - Test window (F9): real FMX controls wearing your style, on FMX's Windows default for anything you
   haven't styled. Right-click a control to create its style from the default (or edit yours), or
@@ -68,9 +74,8 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 1. Download `FreestylerSetup-<version>.exe` from [Releases](https://github.com/GrooverMD/Freestyler-Releases/releases).
 2. Run it. Windows may show "Windows protected your PC" because the installer is not yet
    code-signed: click **More info**, then **Run anyway**.
-3. To use Freestyler inside RAD Studio, tick **RAD Studio add-in** during setup, then in RAD Studio choose
-   **Component > Install Packages > Add...** and select `FreestylerIDE370.bpl` from the `IDE` folder
-   where Freestyler was installed.
+3. To use Freestyler inside RAD Studio, tick **RAD Studio 13 add-in** during setup, then restart
+   RAD Studio. The installer registers the add-in for you, and uninstalling removes it.
 
 ## Reporting problems
 
