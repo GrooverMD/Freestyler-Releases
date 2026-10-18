@@ -67,7 +67,7 @@ application or inside RAD Studio 13, where it opens whenever you edit a TStyleBo
 ## Requirements
 
 - Windows 10 or 11, 64-bit
-- For the IDE add-in: RAD Studio 13 / Delphi 13 (64-bit IDE)
+- For the IDE add-in: RAD Studio 13 / Delphi 13 (64-bit IDE), including the free Community Edition
 
 ## Installing
 
